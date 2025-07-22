@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ritik Barnwal
 
-🌐 [Portfolio](https://theritikbarnwal.github.io) • 📬 [LinkedIn](https://linkedin.com/in/theritikbarnwal) 
+🌐 [Portfolio](https://theritikbarnwal-portfolio.vercel.app/) • 📬 [LinkedIn](https://linkedin.com/in/theritikbarnwal) 
 ---
 
 🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Automation First**
@@ -29,4 +29,4 @@ I believe in learning by doing, and my journey reflects hands-on work with real 
 
 📢 **Let’s Collaborate!**  
 Open to DevOps internships, open-source contributions, and tech discussions.  
-Reach out via [LinkedIn](https://linkedin.com/in/theritikbarnwal) or connect through my [Portfolio](https://theritikbarnwal.github.io)!
+Reach out via [LinkedIn](https://linkedin.com/in/theritikbarnwal) or connect through my [Portfolio](https://theritikbarnwal-portfolio.vercel.app/)!
